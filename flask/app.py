@@ -11,7 +11,7 @@ def randomnumber():
 
 @app.route("/")
 def index():
-  return "<h1>Hello World from my computer !</h1>"
+  return "<h1>Hello World from my computer! This is Mr. Wally. I will be graduating at the end of this semester.</h1>"
 
 
 app.run(host="0.0.0.0",port=5000,debug=True)
