@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1-pivEpm8NUUIQAIP5_qKwfzf17TWzXVR#scroll
 # Please save it to your repository.
 
 ~/
-sql_query_string = """
+## sql_query_string = """
 
 ---Type your homework query below
 SELECT First, Last, studentID, Grade, Scantime, (Period=1) AS pd1, Date, CourseSection
@@ -25,17 +25,17 @@ AS allCuts
 
 """
  
-#Exectue the SQL query
+# Exectue the SQL query
 result_df = sql_query_to_pd(sql_query_string, db_name='default.db')
 result_df
 ~/
-## Asyn Assignment
+
 ~/
-# Mamudu Asynchronous Homework queries here.
+# Mamudu Asynchronous queries here.
 #Note that you will need to complete the homework assignment first.
 #Please post asynch. queries on the Slack when you are done.
 
-sql_query_string = """
+# sql_query_string = """
 
 SELECT Teacher, COUNT(Attendance) AS TotalCuts
 FROM (SELECT s.First AS First, s.Last AS Last, s.StudentID AS StudentID, s.ScanTime AS ScanTime, s.Status AS Status, 
@@ -48,6 +48,7 @@ WHERE p.Attendance = 'A'
 ORDER BY s.Last, s.First ASC) AS allCuts
 GROUP BY Teacher
 ORDER BY TotalCuts DESC
+
 """
 # Exectue the SQL query
 result_df = sql_query_to_pd(sql_query_string, db_name='default.db')
