@@ -31,19 +31,19 @@ def compound_complex_sentence():
     return dependent_clause() + ", " + independent_clause() + " " + random.choice(conjunctions) + " " + independent_clause() + "."
 
 if __name__ == "__main__":
+    
     #test print for simple sentence
     sentence = simple_sentence()
-    
     print(sentence)
+    
     #test print for compound sentence
     compound_sentence = compound_sentence()
-    
     print(compound_sentence)
+    
     #test print for complex sentence
     complex_sentence = complex_sentence()
-    
     print(complex_sentence)
+    
     #test print for compound-complex sentence
     compound_complex_sentence = compound_complex_sentence()
-    
     print(compound_complex_sentence)
