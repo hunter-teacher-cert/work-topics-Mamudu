@@ -1,4 +1,4 @@
-Here the code in codeskulptor3: https://py3.codeskulptor.org/
+Here is the link to the code in codeskulptor3: https://py3.codeskulptor.org/
 
 import random
 
