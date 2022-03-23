@@ -1,6 +1,6 @@
 
 # Homework Assignment
-Here is the link to the code in codeskulptor3: https://py3.codeskulptor.org/
+Here is the link to the code in codeskulptor3: https://py3.codeskulptor.org/#user307_wcB1ZHqOHN_0.py
 
 import random
 
@@ -52,7 +52,7 @@ if __name__ == "__main__":
  
  # Async Assignment
  
- Here is the link to the code in codeskulptor3:https://py3.codeskulptor.org/
+ Here is the link to the code in codeskulptor3:https://py3.codeskulptor.org/#user307_ZXCGWopooO_0.py
     
 import random
 
