@@ -1,3 +1,16 @@
 * Last Name: Wally
 * First Name: Mamudu
 
+Blockchain slides: https://docs.google.com/presentation/d/15Y7nuewVjVLAZezZ7JTkwgKgSX9iQy9hiLLlENoSNUo/edit#slide=id.g120c833bbe6_0_176
+
+Asynch Blockchain
+
+Task: Initialize an empty chain and create three blocks that record three transactions. Display the blockchain for each transaction. 
+Link to be posted in slack
+https://github.com/irimina/Blockchain/blob/main/blockchain.py
+
+Homework Blockchain
+
+Find and read an article describing a blockchain project you are excited about
+Write one paragraph explaining why you like the project.  What are the potential benefits?
+Write one paragraph explaining some potential problems the project may face.  What are some concerns you have?
