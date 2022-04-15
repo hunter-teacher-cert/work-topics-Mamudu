@@ -1,19 +1,20 @@
-# Asynch and Homework on Cipher
+Asynch and Homework on Cipher
 
 Simple Cipher Decryption 5/02 <--- Note: extra week due to spring break
 
 Presentation group will post assignment and homework here
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tiffany Wong  6:10 PM
 Slides: https://tinyurl.com/simpledecryption
 
 GitHub Repo with all starter code: https://github.com/hunter-teacher-cert/work-topics-jkimbxv/tree/master/cipher/classResources
 
-# Async Work (required):
+Async Work (required):
+
 In bellpepper.py, complete the encrypt function in the Caesar Cipher starter code from class. Add code to encrypt lowercase letters as well.
 
-# Homework (choose one):
+Homework (choose one):
+
 bell pepper: Write the decryption function of a caesar cipher from the starter code given in class
 
 jalapeno: Write a decryption function for a vigenere cipher with knowing the key
