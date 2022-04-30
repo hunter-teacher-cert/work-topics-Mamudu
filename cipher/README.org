@@ -1,3 +1,24 @@
-* Last Name:
-* First Name:
+Asynch and Homework on Cipher
 
+Simple Cipher Decryption 5/02 <--- Note: extra week due to spring break
+
+Presentation group will post assignment and homework here
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Slides: https://tinyurl.com/simpledecryption
+
+GitHub Repo with all starter code: https://github.com/hunter-teacher-cert/work-topics-jkimbxv/tree/master/cipher/classResources
+
+Async Work (required):
+
+In bellpepper.py, complete the encrypt function in the Caesar Cipher starter code from class. Add code to encrypt lowercase letters as well.
+
+Homework (choose one):
+
+bell pepper: Write the decryption function of a caesar cipher from the starter code given in class
+
+jalapeno: Write a decryption function for a vigenere cipher with knowing the key
+
+habanero (but do jalapeno first!): The enigma machine is a rotor based encryption machine that simulates 6 vigenere ciphers. Using the resources on Slide 26, recreate the enigma machine by code.
+
+Please place your homework in the cipher folder of your github repo with your selected difficulty level as the title. Ex: If I do the bell pepper assignment, I’d name it bellpepper.py.
