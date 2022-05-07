@@ -1,7 +1,7 @@
 #Work done by Mamudu, Michele, Eduardo
 from math import sin, cos
 import turtle
-#By making all the vertices the same, the cube becomes a triangular prims
+# By making all the TOP vertices the same, the cube becomes a triangular prism (Pyramid0)
 VERTEXES = [(-1, -1, -1), (-1, -1, -1), (-1, -1, -1), (-1, -1, -1),
             (-1, -1,  1), ( 1, -1,  1), ( 1,  1,  1), (-1,  1,  1)]
 
