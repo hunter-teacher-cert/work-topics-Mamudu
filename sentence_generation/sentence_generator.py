@@ -1,6 +1,6 @@
 import random
 
-articles = ["an", "the", "one", "some"]
+articles = ["a", "an", "the", "one", "some"]
 nouns = ["apple", "carrot", "rabbit", "banana", "basketball", "chess", "sun", "wind"]
 verbs = ["cooks", "blows", "bounces", "walks", "jumps", "calls", "stays", "runs", "abides"]
 conjunctions = ["for", "and", "nor", "but", "yet", "so"]
